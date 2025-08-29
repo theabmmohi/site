@@ -1,0 +1,21 @@
+*{
+  -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  background-color: #000f;
+  font-size: 25px;
+  padding: 0px;
+  color: #ffff;
+  margin: 0px;
+}
+
+a{
+  text-decoration: none;
+  cursor: pointer;
+  text-decoration: underline;
+  font-style: italic;
+  display: block;
+  &:visited{
+    color: #0000;
+  }
+}
