@@ -16,6 +16,6 @@ a{
   font-style: italic;
   display: block;
   &:visited{
-    color: #0000;
+    color: #fff9;
   }
 }
